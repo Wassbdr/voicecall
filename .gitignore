@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+.venv/
+venv/
+env/
+
+# Project specific
+exports/
+openvoice_model/
+processed/
+voice_clone_output/
+voice_samples/
+agent.log
+xtts_v2_model/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
