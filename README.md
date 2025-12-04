@@ -68,3 +68,7 @@ You can adjust various settings directly in `agent.py`, such as:
 - `OLLAMA_MODEL`: The model used for generating responses.
 - `SYSTEM_PROMPT`: The personality and instructions for the agent.
 - Audio processing parameters (thresholds, silence detection).
+
+## Authors
+
+Alexandre Da Silva & Wassim Badraoui

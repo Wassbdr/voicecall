@@ -1,21 +1,7 @@
-# Agent Vocal IA - Stack locale gratuite
-# Whisper (STT) + Ollama (LLM) + Edge TTS
-
-# Framework UI
 gradio>=4.0.0
-
-# Audio processing
 numpy>=1.24.0
-
-# HTTP client
 httpx>=0.25.0
-
-# STT - Whisper optimisé CPU
 faster-whisper>=1.0.0
-
-# TTS options (Edge TTS recommandé - gratuit Microsoft)
 edge-tts>=6.1.0
-gtts>=2.5.0  # Fallback Google TTS
-
-# Audio utilities
+gtts>=2.5.0
 soundfile>=0.12.0
